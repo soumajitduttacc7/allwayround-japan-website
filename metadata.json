@@ -1,0 +1,6 @@
+{
+  "name": "Vesper.ai",
+  "description": "Deploy adaptive AI agents that learn, execute, and scale operational tasks across your business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
